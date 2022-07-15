@@ -19,7 +19,11 @@
 * 나만의 물건을 등록해 보세요!
 * List 로 Grid 로 편하게 볼 수 있어요!
 * 본인이 등록한 상품은 수정, 삭제 할 수 있어요!
-<img src="https://i.imgur.com/LnRHu1s.gif" width= 40%><img src="https://i.imgur.com/GBlV2lZ.gif" width= 40%><img src="https://i.imgur.com/dP72Mqv.gif" width= 40%><img src="https://i.imgur.com/gzhv2R9.gif" width= 40%>
+
+|||||
+|--|--|--|--|
+|<img src="https://i.imgur.com/LnRHu1s.gif">|<img src="https://i.imgur.com/GBlV2lZ.gif">|<img src="https://i.imgur.com/dP72Mqv.gif">|<img src="https://i.imgur.com/gzhv2R9.gif">|
+
 
 ## 개발환경 및 라이브러리
 
@@ -38,8 +42,11 @@
 
 ## 자세한 고민 보기
 [STEP 1 PR](https://github.com/yagom-academy/ios-open-market/pull/137)
+
 [STEP 2 PR](https://github.com/yagom-academy/ios-open-market/pull/146)
+
 [STEP 3 PR](https://github.com/yagom-academy/ios-open-market/pull/155)
+
 [STEP 4 PR](https://github.com/yagom-academy/ios-open-market/pull/165)
 
 ## 🚀trouble shooting
